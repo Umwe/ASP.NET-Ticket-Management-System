@@ -1,57 +1,32 @@
+# JAVA Ticket Management System
 
-
----
-
-# ASP.NET Ticket Management System
-
-This repository contains an example web application showcasing the capabilities of **ASP.NET Core 2 MVC**, **Entity Framework (EF)**, **Web API**, **Bootstrap**, **jQuery**, **datatables**, and the **adminlte template**. The web app is designed as a **helpdesk or ticket support portal**.
+## Overview
+The JAVA Ticket Management System is a robust and efficient system designed to manage tickets in various scenarios. It's built with Java, showcasing the power and flexibility of the language in creating complex systems.
 
 ## Features
+- **Ticket Creation**: Allows for the creation of new tickets with unique identifiers.
+- **Ticket Assignment**: Assign tickets to specific departments or individuals for resolution.
+- **Ticket Tracking**: Keep track of the status of each ticket, from creation to resolution.
+- **Reporting**: Generate reports on ticket resolution, including time to resolution and other metrics.
 
-- **ASP.NET Core 2 MVC**: Utilized for building the web application.
-- **Entity Framework (EF)**: Used for data access and management.
-- **Web API**: Provides endpoints for communication.
-- **Bootstrap**: Ensures responsive and visually appealing design.
-- **jQuery**: Enhances interactivity.
-- **Datatables**: Enables efficient data presentation.
-- **Adminlte template**: Provides a clean and modern user interface.
+## Installation
+1. Clone the repository:
+git clone https://github.com/Umwe/JAVA-Ticket-Management-System.git
+2. Navigate to the project directory:
+cd JAVA-Ticket-Management-System
+3. Compile the Java files:
+javac *.java
+4. Run the main file:
+java Main
 
-## Getting Started
-
-1. **Clone the Repository**:
-   ```
-   git clone https://github.com/Umwe/ASP.NET-Ticket-Management-System.git
-   ```
-
-2. **Navigate to the Project Directory**:
-   ```
-   cd ASP.NET-Ticket-Management-System
-   ```
-
-3. **Build and Run the Application**:
-   ```
-   dotnet build
-   dotnet run
-   ```
-
-4. **Access the Application**:
-   Open your web browser and visit `http://localhost:5000`.
+## Usage
+Provide details on how to use the system, including any necessary commands and expected outputs.
 
 ## Contributing
+We welcome contributions to the JAVA Ticket Management System! Please see our contributing guidelines for more details.
 
-Contributions are welcome! Feel free to submit pull requests or report issues.
+## License
+This project is licensed under the terms of the MIT license. See LICENSE for more details.
 
-
----
-
-Feel free to customize this README to match the specifics of your project. Happy coding! 🚀
-
-
-**Developer**:
-
-Kwizera Africa Hubert Bonaparte
-
-**Portofolio**:
-https://umwekumubumbe.000webhostapp.com/
-
-
+## Contact
+For any questions or concerns, please open an issue on this repository.
